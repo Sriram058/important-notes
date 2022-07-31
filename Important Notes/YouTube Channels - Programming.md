@@ -1,0 +1,36 @@
+# YouTube Channels - Programming
+
+-  [Ben Awad](https://youtube.com/c/BenAwad97) for programming humor (I find that humor in general helps you understand/engage with a field).
+-  [Bukola](https://youtube.com/c/Bukola1) for career advice. I believe she works as a tech advocate for Google.
+-  [Senegoddess](https://youtube.com/c/Senegoddess) for career advice, especially for women in tech
+-  [chris@machine](https://www.youtube.com/c/ChrisAtMachine) for really dope tutorials on setting up NeoVim and really cool livestreams on rust, Java, web dev, etc.
+-  [Primagean](https://youtube.com/c/ThePrimeagen): vim/NeoVim power user, does interesting content on testing code performance, and an all around hilarious guy. Might be interesting because Bun is giving NodeJS for its money in terms of performance. Big debate and hype right now.
+-  [clément mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) for coding interviews prep, excellent resource
+-  [Coder Coder](https://youtube.com/c/TheCoderCoder) for excellent front end coding content. Front end is her bread and butter.
+-  [DarkCode](https://youtube.com/c/DarkCodeOnline) súper simple front end coding. No talking, or explanation—just 10 minute videos of them writing up the code and building the web page/component (and also really awesome music). I like watching webpages get built in real-time, from scratch.
+-  [DesignCourse](https://youtube.com/c/DesignCourse) for superb front end advice, industry practices. Must channel for even react developers in my opinion.
+-  [EngineerMan](https://youtube.com/c/EngineerMan) top tier content creators, talks about Linux, and beginner friendly tutorials on python and node. He is straight and to the point, this dude is awesome because there is never any fluff. Front end people should be comfortable with the terminal/Unix based systems.
+-  [Harshibar](https://youtube.com/c/harshibar) Indian content creator and developer with focus on productivity. Her videos are really well produced and edited.
+-  [Hussein Nassar](https://youtube.com/c/HusseinNasser-software-engineering) he is the GOAT of backend content creators in my opinion. Goes really into the weeds of databases, TCP and does really cool explainers on security vulnerabilities and outages. And also one of the kindest, sweetest creators on the platform. If you’re doing full stack, it’s good to know how your data/requests are transported on a technical level.
+-  [Jack Herrington](https://youtube.com/c/JackHerrington) just found him in my feed and is a senior developer who deserves way more views. Learned a lot of really useful patterns in ReactJS from him.
+-  [JSConf](https://youtube.com/c/JSConfEU) to keep up with trends, cool talks about JavaScript.
+-  [Lol Liang Yang](https://youtube.com/c/LoiLiangYang) for those programmers interested in ethical hacking and pen-testing.
+-  [Mental Outlaw](https://youtube.com/c/MentalOutlaw) cool content creators who talks about the underbelly of the internet. Whether crypto or the latest security risks.
+-  [PwnFunction](https://youtube.com/c/PwnFunction) content creators about security and vulnerabilities in code. I promise you literally every video of his will blow your mind. He did one video on a vulnerability in NextJS and it was wild.
+-  [Healthy Software Developer](https://youtube.com/c/JaymeEdwardsMedia), Jayme Edwards. Really solid guy, senior web developer. Just found his content and gives really useful career and developer advice especially from a senior perspective.
+-  [Acadamind](https://youtube.com/c/Academind). Just small bites of React and other related JS topics and frameworks. I always have found the examples simple and easy to follow along with, and I just find Max’s speaking cadence clear and very understandable.
+-  [Web Dev Simplified](https://youtube.com/c/WebDevSimplified)
+-  Dave Grey. [Channel Link](https://www.youtube.com/c/DaveGrayTeachesCode)
+-  Coding Addict [https://youtube.com/c/CodingAddict](https://youtube.com/c/CodingAddict)
+-  Coding Garden [https://www.youtube.com/c/CodingGarden](https://www.youtube.com/c/CodingGarden)
+- ui.dev [https://www.youtube.com/c/uidotdev](https://www.youtube.com/c/uidotdev)
+- Fireship [https://www.youtube.com/c/Fireship](https://www.youtube.com/c/Fireship)
+- devaslife [https://www.youtube.com/c/devaslife](https://www.youtube.com/c/devaslife)
+- kevin Powell CSS [https://www.youtube.com/kepowob](https://www.youtube.com/kepowob)
+- Codevolution Web tutorials [https://www.youtube.com/c/Codevolution](https://www.youtube.com/c/Codevolution)
+- Kent C. Dodds [https://www.youtube.com/c/KentCDodds-vids](https://www.youtube.com/c/KentCDodds-vids)
+- Java Brains [https://www.youtube.com/c/JavaBrainsChannel](https://www.youtube.com/c/JavaBrainsChannel)
+- Tech Primers [https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)
+- Java Techie [https://www.youtube.com/c/JavaTechie](https://www.youtube.com/c/JavaTechie)
+- Coding with John [https://www.youtube.com/c/CodingwithJohn](https://www.youtube.com/c/CodingwithJohn)
+- BroCode [https://www.youtube.com/c/BroCodez](https://www.youtube.com/c/BroCodez)
